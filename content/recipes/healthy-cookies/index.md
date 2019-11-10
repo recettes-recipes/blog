@@ -3,13 +3,12 @@ layout: recipe
 date: 2019-11-10T21:46:20+01:00
 draft: true    
 title:  "Healthy Cookies" # The title of your awesome recipe
-image: awesome-recipe-image.jpg # Name of image in recipe bundle
-imagecredit: https://placekitten.com/600/800 # URL to image source page, website, or creator
+image: image.jpg # Name of image in recipe bundle
 authorName: Toinou
 authorURL: # URL of their home website
 sourceName: # Name of the source website
 sourceURL: # Actual URL of the recipe itself
-category: dessert
+category: Dessert
 cuisine: # The region associated with your recipe. For example, "French", Mediterranean", or "American".
 tags:
   - healthy
