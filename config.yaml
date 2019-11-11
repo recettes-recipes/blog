@@ -1,4 +1,4 @@
-baseURL: https://example.com
+baseURL: https://recettes-recipes.github.io/blog/
 disablePathToLower: true
 languageCode: fr-fr
 title: "Recettes and recipes"
