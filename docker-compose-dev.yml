@@ -1,0 +1,10 @@
+version: '3.5'
+
+services:
+  hugo:
+    image: yanqd0/hugo
+    volumes:
+      - .:/srv/hugo
+    ports:
+      - 1313:1313
+    restart: unless-stopped
