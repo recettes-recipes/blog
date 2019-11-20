@@ -14,9 +14,9 @@ tags:
   - healthy
   - cookies
   - chocolat 
-yield: 8
-prepTime: 15
-cookTime: 45
+yield: 10-12 cookies
+prepTime: 5 minutes
+cookTime: 25 minutes
 
 ingredients:
 - 40g de sucre

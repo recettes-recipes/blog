@@ -1,3 +1,30 @@
 .sell.bg-blue-tile {
   display: none;
 }
+
+.navigation {
+  padding: 1rem;
+}
+
+.navigation .nav-right {
+  padding: 0;
+}
+
+.footer span.powered-by {
+  font-size: 0.8rem;
+}
+
+.post-content .post-header .post-informations {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.post-content .post-header .post-informations li {
+  display: inline-block;
+}
+
+.post-content .post-header .post-informations li:not(:last-child):after {
+  content: '·';
+  margin: 0 10px;
+}
