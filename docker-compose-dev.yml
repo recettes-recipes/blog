@@ -2,7 +2,7 @@ version: '3.5'
 
 services:
   hugo:
-    image: yanqd0/hugo
+    image: mesh3333/recipes-dev
     volumes:
       - .:/srv/hugo
     ports:
