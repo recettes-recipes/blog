@@ -33,3 +33,14 @@ Run this command:
 ```bash
 hugo --minify
 ```
+
+## Using docker during development
+Some people prefer using docker during development, as installing Hugo can be a bit tricky.
+
+For this, simply run :
+
+```bash
+docker-compose -f docker-compose-dev.yml up
+```
+
+Then, the app can be accessed on http://localhost:1313/blog/
