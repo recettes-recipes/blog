@@ -25,7 +25,7 @@ ingredients:
 
 directions:
 - Séparer les blancs des jaunes (attention, strictement AUCUN jaune ne doit être dans les blancs, sinon ils ne monteront jamais en neige).
-- Monter les blancs en neige (facile avec un fouet électrique), s'arrêter lorsque l'on obtient un bec d'oiseau quand vous retirez le fouet.
+- Monter les blancs en neige (facile avec un fouet électrique), en ajoutant petit à petit le sucre. S'arrêter lorsque l'on obtient un bec d'oiseau quand vous retirez le fouet.
 - Rajouter les jaunes et battre juste assez pour que les jaunes soit incorporés.
 - Ajouter la farine tamisée. Si vous n'avez pas de tamis, prenez une fourchette ou un fouet et battez la farine juste avant qu'elle ne tombe de son conteneur. Il ne doit pas y'avoir de "morceaux" de farine.
 - Prendre une poche à douille (avec ou sans embout) et dresser les boudoirs. Vous pouvez former des chaines de boudoirs ou bien des cercles (pour des charlottes par exemple, voir photo) ou alors vous pouvez les espacer un peu plus.
