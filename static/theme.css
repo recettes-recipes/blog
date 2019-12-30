@@ -1,0 +1,24 @@
+.navigation {
+  background-image: none;
+  background: linear-gradient(#ec4815, #e66465 );
+}
+
+.bg-blue {
+  background-color: #ec4815;
+}
+
+.blue,
+a,
+.footer a {
+  color: #ec4815;
+}
+
+.checkbox-label .checkbox-custom,
+.checkbox-label input:checked ~ .checkbox-custom,
+.checkbox-label input:checked ~ .checkbox-custom::after {
+  border-color: #ec4815;
+}
+
+.sell.bg-blue-tile {
+  display: none;
+}

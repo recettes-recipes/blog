@@ -24,6 +24,7 @@ params:
   hidecopyright: false
   showNavTitle: true
   custom_css: 
+    - theme.css
     - style.css
 menu:
   main:
